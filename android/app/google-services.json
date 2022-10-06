@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298646014217",
+    "project_id": "testchatapp-1fb43",
+    "storage_bucket": "testchatapp-1fb43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298646014217:android:6574556d0169472162abd8",
+        "android_client_info": {
+          "package_name": "com.singalchatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298646014217-h2ve8nh2987128bg3dnd08k3vjhug8qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCROuLwPGyHU9mgSA5HF9b0Yb07xkAzv1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298646014217-h2ve8nh2987128bg3dnd08k3vjhug8qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
